@@ -1,5 +1,4 @@
-// solution for containsDuplicate in o(1) 
-
+// solution for containsDuplicate in o(1) time complexity
     public boolean hasDuplicate(int[] nums) {
         HashMap <Integer, Integer> storeNumbers = new HashMap<>(); //create hash map
         
